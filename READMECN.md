@@ -30,9 +30,9 @@ golang
 1. 使用前请调整配置文件、抓取网站URL及正则过滤,并导入mysql库; 
 
 ## 联系作者
-mail: 1269866868@qq.com,golangbbs@gmail.com  
+mail: 1269866868@qq.com,vnextcanary@gmail.com  
 QQ群：920788836  
-或访问: http://www.golangbbs.com/?page=bbs&category=XWdNEvaL_go  
+或访问: http://www.vnextcanary.com/?page=bbs&category=XWdNEvaL_go  
 
 ## tips:
 如果您有好的项目或建议，我们可以帮助您实现它.  
@@ -47,7 +47,7 @@ QQ群：920788836
 
 ![10](/static/img/donation/weixin.jpg)    <br /><br /> <br />
 
-##### 或者https://paypal.me/golangbbs
+##### 或者https://paypal.me/vnextcanary
 
 ## Screenshots ：<br /><br />
 #### mainpage 

@@ -1,4 +1,4 @@
-// Copyright 2019 golangbbs Core Team.  All rights reserved.
+// Copyright 2019 vnextcanary Core Team.  All rights reserved.
 // LICENSE: Use of this source code is governed by AGPL-3.0.
 // license that can be found in the LICENSE file.
 package main
@@ -6,7 +6,6 @@ package main
 import (
 	"crawler/configs"
 	"crawler/engine"
-	"crawler/parser/1024"
 	"fmt"
 	"strconv"
 )

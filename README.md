@@ -30,8 +30,8 @@ database: mysql
 
 
 ## Contact
-mail: golangbbs@gmail.com  
-or visit link: http://www.golangbbs.com/?page=bbs&category=XWdNEvaL_go
+mail: vnextcanary@gmail.com  
+or visit link: http://www.vnextcanary.com/?page=bbs&category=XWdNEvaL_go
 
 ## tips:
 If you have good projects or suggestions, we can help you realize it
@@ -41,7 +41,11 @@ If you like or plan to use this project,please give me a star, thank you!
 
 ## Donation
 If this project makes you feel good, You can donate to the following link to better support the development of this project and the team:
-##### https://paypal.me/golangbbs
+![10](/static/img/donation/alipay.jpg)   <br /><br /> <br />
+
+![10](/static/img/donation/weixin.jpg)    <br /><br /> <br />
+
+
 
 ## Screenshots ：<br /><br />
 #### mainpage 
